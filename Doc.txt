@@ -1,0 +1,8 @@
+GET  localhost:8080/users - все пользователи
+GET  localhost:8080/users?online=true - все, кто онлайн
+GET  localhost:8080/users?online=false - все, кто оффлайн
+GET  localhost:8080/users/{id} - пользователь с указанным id или пустой ответ
+POST localhost:8080/users - в body передаётся: (status (ONLINE/OFFLINE), userName)
+PUT  localhost:8080/users -  в header передаётся: (status (ONLINE/OFFLINE)), обновляется статус пользователя с указанным id
+
+если уж так делать, то в readme.md

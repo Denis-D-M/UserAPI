@@ -1,0 +1,67 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1e2d9c14_9c26cfa9",
+        "filename": "src/main/java/com/epam/mishin/testpackage/CoolClass.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1019364
+      },
+      "writtenOn": "2021-08-04T05:39:53Z",
+      "side": 1,
+      "message": "Справдливо. \nНельзя отвечать самому себе...",
+      "range": {
+        "startLine": 4,
+        "startChar": 9,
+        "endLine": 4,
+        "endChar": 10
+      },
+      "revId": "5e03f14ec9a075e96151ee810b48a01957c7cbff",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9d888adc_a3a40204",
+        "filename": "src/main/java/com/epam/mishin/testpackage/CoolClass.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1019364
+      },
+      "writtenOn": "2021-08-04T05:39:53Z",
+      "side": 1,
+      "message": "А схуяле ему не быть public?",
+      "revId": "5e03f14ec9a075e96151ee810b48a01957c7cbff",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cde3f415_541e26c3",
+        "filename": "src/main/java/com/epam/mishin/testpackage/CoolClass.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1019364
+      },
+      "writtenOn": "2021-08-04T05:39:53Z",
+      "side": 1,
+      "message": "Почему метод public?",
+      "range": {
+        "startLine": 4,
+        "startChar": 2,
+        "endLine": 4,
+        "endChar": 9
+      },
+      "revId": "5e03f14ec9a075e96151ee810b48a01957c7cbff",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
